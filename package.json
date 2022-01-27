@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test1": "echo \"Error: no test specified\" && exit 1",
     "launchcypress": "cypress open",
     "alltestcases": "cypress  run --spec ./cypress/integration/testcases/futureFuelRoundUp.spec.js --browser chrome --headed",
     "merge-reports": "mochawesome-merge cypress/reports/*.json>mochawesome.json",
