@@ -1,0 +1,7 @@
+{
+    "baseUrl":"https://nightly.futurefuel.io/login",
+    "chromeWebSecurity":false,
+    "defaultCommandTimeout":200000,
+    "pageLoadTimeout":200000,
+    "requestTimeout":200000
+}

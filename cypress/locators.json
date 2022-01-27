@@ -1,0 +1,84 @@
+{
+ "signup":{
+     "firstName":"[name=\"first_name\"]",
+     "lastName":"[name=\"last_name\"]",
+     "email":"[name=\"email\"]",
+     "password":"[name=\"password\"]",
+     "checkboxConfirmation":"[type=\"checkbox\"]"
+
+    },
+
+"FutureFuelLogin":{
+    "email":"[name=\"email\"]",
+    "password":"[name=\"password\"]",
+    "emailRecover":"[name=\"email_recover\"]",
+    "passwordRecoverLink":"[href=\"/password/recover\"]",
+    "loginLinkOnForgotpasswordPage":"[href=\"/login\"]",
+    "helperUsernameText":"#email-10-helper-text",
+    "helperPasswordText":"#password-11-helper-text",
+    "resetPassword":".MuiButton-label",
+    "resetPasswordAssertionText":".MuiPaper-root",
+    "login":"[data-testid=\"next-btn-login\"] > .MuiButton-label",
+    "notificationForInvalidCredentials":"#notification-id",
+
+
+    "toggleIcon":"[data-testid=\"nav-menu__toggle\"] > .MuiGrid-root > .MuiSvgIcon-root",
+    "roundUpLink" :"[data-testid=\"navLinkRoundup\"] > .MuiBox-root > .MuiTypography-root",
+    "nextButton":"[data-testid=\"next-btn\"] > .MuiButton-label",
+    "checkingRadioOption":"[aria-label=\"Checking **4025\"]",
+    "formToGetRadioButton":"form",
+    "checkingRadioOption2":"[name=\"Checking **4025\"]",
+    "checkBoxAuth":"[type=\"checkbox\"]",
+    "pageBody":"body",
+    "nextAuthButton":"[data-testid=\"rua__setfunding-modal\"] > :nth-child(3) > [data-testid=\"next-btn\"] > .MuiButton-label",
+    "FileUploadNextButton":"[data-testid=\"next-btn\"]",
+    "disableOptionMenu":"[data-testid=\"optionsmenu__button\"]",
+    "disableOptionButton":"[data-testid=\"optionsmenu__disable\"] > .MuiTypography-root",
+    "disableOptionConfirmButton":"[data-testid=\"confirm-btn\"] > .MuiButton-label"
+   
+
+},
+
+"rollup":{
+    "rollupLink":"[data-testid=\"navLinkRollup\"] > .MuiBox-root > .MuiTypography-root",
+    "addPath1":"[style=\"border-bottom: 1px solid rgb(220, 228, 239); padding: 26px 12px 26px 38px;\"] > .MuiGrid-container > .MuiGrid-root > .MuiButtonBase-root > .MuiButton-label",
+    "addLoanSelectButton":"(//*[@class=\"MuiButton-label\"])[1]",
+    "loanSelectButton":"(//*[@class=\"MuiButton-label\"])[3]",
+    "loanServicerDropDown":"[data-testid=\"ac__expand-icon\"]",
+    "dropDownSelector":"#downshift-0-item-1",
+    "loanName":"(//*[@name=\"name\"])",
+    "balance":"(//*[@name=\"balance\"])",
+    "monthly_payment":"(//*[@name=\"monthly_payment\"])",
+    "interest_rate":"(//*[@name=\"interest_rate\"])",
+    "doneButton":".MuiButton-label",
+    "cancelButton":"[data-testid=\"cancel-btn\"] > .MuiButton-label",
+    "manageLoanButton":"(//*[@type=\"button\"])[8]",
+    "toggleOption":":nth-child(1) > :nth-child(2) > .MuiGrid-container > .MuiGrid-root > .MuiButtonBase-root",
+    "toggleOption2":":nth-child(2) > :nth-child(2) > .MuiGrid-container > .MuiGrid-root > .MuiButtonBase-root",
+    "removeButton":"(//*[@class=\"MuiButton-label\"])[5]",
+    "cancelOption":"(//*[@class=\"MuiButton-label\"])[3]",
+    "closeButton":":nth-child(1) > .MuiGrid-grid-xs-12 > .MuiGrid-direction-xs-column > :nth-child(1) > [data-testid=\"responsive-dialog__close\"] > .MuiIconButton-label > .MuiSvgIcon-root",
+    "fileUploadSelectButton":"(//*[@class=\"MuiButton-label\"])[2]",
+    "notificationId":"#notification-id",
+    "loanAccountDoneButton":"(//*[@class=\"MuiButton-label\"])[1]",
+    "fedLoanText":"(//*[@alt=\"FedLoan Servicing\"])[1]",
+    "loanAcc":"(//*[@class=\"MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-1 MuiGrid-item MuiGrid-wrap-xs-nowrap MuiGrid-justify-content-xs-space-between\"])[5]",
+    "removeLoanAccountOption":":nth-child(5) > .MuiTypography-root",
+    "loanAccountRemoveButton":"(//*[@class=\"MuiButton-label\"])[4]"
+
+},
+
+"framePage":{
+    "plaidLinkId":"#plaid-link-iframe-1",
+    "plaidLinkRollup":"#plaid-link-iframe-1",
+    "Continue":"#aut-continue-button > span",
+    "plaidUserName":"#username",
+    "plaidPassword":"#password",
+    "submit":"#aut-submit-button > span"
+
+
+}
+}
+
+
+

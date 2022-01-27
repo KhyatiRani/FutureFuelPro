@@ -1,0 +1,144 @@
+File Source:U.S. DEPARTMENT OF EDUCATION, NATIONAL STUDENT LOAN DATA SYSTEM (NSLDS)
+File Request Date:2021-12-19-14.04.40.522
+Student First Name:KURT
+Student Middle Initial:D
+Student Last Name:YALCIN
+Student Street Address 1:
+Student Street Address 2:
+Student City:
+Student State Code:
+Student Country Code:
+Student Zip Code:
+Student Email Address:
+Student Home Phone Country Code:
+Student Home Phone Number:
+Student Home Phone Preferred:
+Student Cell Phone Country Code:
+Student Cell Phone Number:
+Student Cell Phone Preferred:
+Student Work Phone Country Code:
+Student Work Phone Number:
+Student Work Phone Preferred:
+Student SULA Maximum Eligibility Period:0.0
+Student SULA Subsidized Usage Period:0.0
+Student SULA Remaining Eligibility Period:0.0
+Student Enrollment Status:GRADUATED
+Student Enrollment Status Effective Date:05/08/2018
+Student Total All Loans Outstanding Principal:$4,700
+Student Total All Loans Outstanding Interest:$4
+Student Pell Lifetime Eligibility Used:0.000%
+Student Iraq and Afghanistan Service Lifetime Eligibility Used:0.000%
+Student Total All Grants:$0
+Total DIRECT STAFFORD UNSUBSIDIZED Outstanding Principal:$4,700
+Total DIRECT STAFFORD UNSUBSIDIZED Outstanding Interest:$4
+Loan Type:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****3047U18G02798001
+Loan Attending School Name:PRATT INSTITUTE
+Loan Attending School OPEID:00279800
+Loan Date:08/23/2017
+Loan Repayment Begin Date:11/09/2018
+Loan Period Begin Date:08/28/2017
+Loan Period End Date:05/08/2018
+Loan Amount:$15,342
+Loan Disbursed Amount:$11,992
+Loan Canceled Amount:$3,350
+Loan Canceled Date:01/09/2018
+Loan Outstanding Principal Balance:$4,700
+Loan Outstanding Principal Balance as of Date:03/09/2019
+Loan Outstanding Interest Balance:$4
+Loan Outstanding Interest Balance as of Date:03/09/2019
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:6.00%
+Loan Repayment Plan Type:STANDARD REPAYMENT
+Loan Repayment Plan Begin Date:10/10/2018
+Loan Repayment Plan Scheduled Amount:$67
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:03/05/2019
+Loan Next Payment Due Date:09/23/2020
+Loan Cumulative Payment Amount:$8,024
+Loan PSLF Cumulative Matched Months:0
+Loan Status:RP
+Loan Status Description:IN REPAYMENT
+Loan Status Effective Date:11/09/2018
+Loan Status:IG
+Loan Status Description:IN GRACE PERIOD
+Loan Status Effective Date:05/09/2018
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:08/23/2017
+Loan Disbursement Date:01/09/2018
+Loan Disbursement Amount:$6,999
+Loan Disbursement Date:08/23/2017
+Loan Disbursement Amount:$4,993
+Loan Contact Type:Current ED Servicer
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:303530210
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:
+Loan Type:DIRECT STAFFORD UNSUBSIDIZED
+Loan Award ID:*****3047U17G02798001
+Loan Attending School Name:PRATT INSTITUTE
+Loan Attending School OPEID:00279800
+Loan Date:01/24/2017
+Loan Repayment Begin Date:05/30/2017
+Loan Period Begin Date:01/17/2017
+Loan Period End Date:05/12/2017
+Loan Amount:$6,000
+Loan Disbursed Amount:$1,676
+Loan Canceled Amount:$4,324
+Loan Canceled Date:01/24/2017
+Loan Outstanding Principal Balance:$0
+Loan Outstanding Principal Balance as of Date:05/31/2017
+Loan Outstanding Interest Balance:$0
+Loan Outstanding Interest Balance as of Date:05/31/2017
+Loan Interest Rate Type:FIXED
+Loan Interest Rate:5.31%
+Loan Repayment Plan Type:
+Loan Repayment Plan Begin Date:
+Loan Repayment Plan Scheduled Amount:
+Loan Repayment Plan IDR Plan Anniversary Date:
+Loan Confirmed Subsidy Status:
+Loan Subsidized Usage in Years:
+Loan Reaffirmation Date:
+Loan Most Recent Payment Effective Date:05/30/2017
+Loan Next Payment Due Date:05/31/2017
+Loan Cumulative Payment Amount:$1,707
+Loan PSLF Cumulative Matched Months:0
+Loan Status:PF
+Loan Status Description:PAID IN FULL
+Loan Status Effective Date:05/30/2017
+Loan Status:IA
+Loan Status Description:LOAN ORIGINATED
+Loan Status Effective Date:01/24/2017
+Loan Disbursement Date:01/24/2017
+Loan Disbursement Amount:$1,676
+Loan Contact Type:Current ED Servicer
+Loan Contact Name:DEPT OF ED/FEDLOAN SERVICING(PHEAA)
+Loan Contact Street Address 1:PO BOX 530210
+Loan Contact Street Address 2:
+Loan Contact City:ATLANTA
+Loan Contact State Code:GA
+Loan Contact Zip Code:303530210
+Loan Contact Phone Number:800-699-2908
+Loan Contact Phone Extension:
+Loan Contact Email Address:accountinfo@myfedloan.org
+Loan Contact Web Site Address:
+Program School Name:PRATT INSTITUTE
+Program School OPEID:00279800
+Program CIP Title:Informatics.
+Program Credential Level:Master's Degree
+Program Begin Date:08/22/2016
+Program Published Length in Years:3.2
+Program Status Description:Graduated
+Program Status Effective Date:05/08/2018
+Program Status Description:Full Time
+Program Status Effective Date:08/22/2016

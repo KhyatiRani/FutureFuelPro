@@ -1,0 +1,24 @@
+{
+    "loginUserName":"abc@gmail.com",
+    "loginPassword":"FuelF@rFuture123",
+    "loginIncorrectUserName":"abc",
+    "loginIncorrectPassword":"abc",
+    "blankUserName":" ",
+    "blankPassword":" ",
+
+    "plaidUserName":"user_custom",
+    "plaidPassword":"{ \"seed\": \"some seed for user 2\" }",
+
+
+    "RollupPlaidUserName":"user_custom",
+    "RollupPlaidPassword":"{ \"override_accounts\": [{\"type\": \"loan\", \"subtype\": \"student\",\"numbers\": { \"account\": \"894323345807754\"}, \"liability\": {\"type\": \"student\",\"repayment_plan_type\": \"standard\", \"origination_date\": \"2015-05-01\", \"principal\": 56000, \"expected_payoff_date\": \"2040-10-31\",\"last_payment_amount\": 450,\"minimum_payment_amount\": 450,\"nominal_apr\": 7.0} } ] }", 
+    "accountOwenershipPage":"Verify Account Ownership",
+    "RollupPlaidInvalidUserName":"user",
+    "RollupPlaidInvalidPassword":"abc", 
+    "RollupPlaidBlankUserName":" ",
+    "RollupPlaidBlankPassword":" ",
+
+    "chooseAfileText":"Choose a file",
+    "MyStudentDataPdfFile":"MyStudentDataK.pdf",
+    "MyStudentDataTextFile":"MyStudentDataK."
+}
